@@ -1,0 +1,886 @@
+CHIT MARKETPLACE TERMS AND CONDITIONS
+Last updated: February 4, 2025
+These CHIT Marketplace Terms and Conditions (“CHIT Marketplace Terms”) are an
+agreement between you (“you”) and AZ Cash Solutions, LLC, an Arizona limited liability
+company (“AZ Cash Solutions,” “we,” or “us”) that governs the terms and conditions of your
+access and use of the CHIT Marketplace as described in Section 1 of these CHIT Marketplace
+Terms. By becoming a member of the AZ Cash Solutions club, being accepted as a CHIT
+Marketplace Vendor (as defined in Section 1), or becoming a CHIT Marketplace User (as defined
+below), and accessing the CHIT Marketplace, you are agreeing to enter into these CHIT
+Marketplace Terms and be legally bound by its terms and conditions. If you do not agreement
+with any of the terms and conditions in these CHIT Marketplace Terms, don’t access or use the
+CHIT Marketplace. All capitalized terms not defined herein shall have the meanings ascribed
+thereto in your AZ Cash Solutions Membership Agreement.
+CHIT Marketplace
+AZ Cash Solutions provides you with a closed, private digital commodity transfer system –
+managed solely by AZ Cash Solutions – which employs technology to facilitate the buying,
+selling and transferring of cryptographically stored digital assets (each a “CHIT” and
+collectively “CHITS”) each of which is fixed in value at a 1:1 ratio to the U.S. Dollar (the
+“CHIT Marketplace”). Each CHIT is uniquely identifiable ensuring that it can be tracked and
+verified through the CHIT Marketplace from initial purchase through the sale of the CHIT. The
+CHIT Marketplace enables you, other members of the AZ Cash Solutions club that have been
+granted access to the CHIT Marketplace by AZ Cash Solutions in its sole discretion (collectively,
+“AZ Cash Solutions Members,” and each, an “AZ Cash Solutions Members,”), and a curated
+list of vendors selected and granted access to the CHIT Marketplace by AZ Cash Solutions in its
+sole discretion who provide products, services, or benefits to, or are otherwise necessary for the
+operation of (collectively, “CHIT Marketplace Vendors,” and each, a “CHIT Marketplace
+Vendor”) a business involved in the Arizona licensed cannabis industry with respect to planting,
+cultivating, harvesting, manufacturing, distributing, and sale of cannabis (“MRBs”), with the
+ability to (i) purchase and list CHITS for sale U.S. Dollars to other AZ Cash Solutions Members
+or CHIT Marketplace Vendors through the CHIT Marketplace; and (ii) hold CHITS for use
+through the CHIT Marketplace in a self-contained, encrypted, digital storage vault connected to
+such users designated hardware. In addition, the CHIT Marketplace allows you to transfer
+CHITS to other AZ Cash Solutions Members or CHIT Marketplace Vendors. Access to the CHIT
+Marketplace will be restricted and only available while you are located within the State of
+Arizona. You acknowledge and authorize that information concerning the location of the
+computer that will be used to assess your location while accessing and/or logged into the CHIT
+Marketplace. You expressly agree that you authorize us to collect and use your location as a part
+of the eligibility for use of and access to the CHIT Marketplace. You may designate up to five (5)
+users to have access to the CHIT Marketplace (each, a “CHIT Marketplace User”), and each
+151458006.1
+AZ Cash Solutions Member and each CHIT Marketplace User must pass our BSA/anti-money
+laundering (“AML”)/OFAC Compliance Program (our “BSA/AML Program”) and agree to
+these CHIT Marketplace Terms, prior to AZ Cash Solutions granting access to the CHIT
+Marketplace. You and each CHIT Marketplace User may also need to agree to standard third
+party end user licenses agreements (EULAs), terms and conditions, and privacy policies of third
+party software and/or software service providers.
+Each CHIT Marketplace User represents and affirms that he or she is at least 18 years old, has
+the legal capity to enter into these CHIT Marketplace Terms, and agrees to be legally bound by
+the terms and conditions of these CHIT Marketplace Terms in their entirety.
+You agree and understand that by logging into your account or authenticating to our application
+programming interface (“API”) with your API key (“API Authenticating” or “API
+Authentication”) following any change to this CHIT Marketplace Terms, your login or API
+Authentication, as applicable, shall constitute your agreement to the amended CHIT Marketplace
+Terms by and between you and AZ Cash Solutions, and you agree to be legally bound by its
+terms and conditions as amended. Among other things, this means that, if you log into your
+account or API Authenticate following an amendment to these CHIT Marketplace Terms,
+transactions that you or others have already undertaken, and fees, could be affected by the
+amended terms and conditions of these CHIT Marketplace Terms. You should, therefore, read
+these CHIT Marketplace Terms from time to time. You agree and understand that we have the
+right to require your affirmative assent and continuing acceptance of these CHIT Marketplace
+Terms, from time to time, as a condition of you accessing or using the CHIT Marketplace,
+logging into your account, or API Authenticating, as applicable. If you do not agree to be bound
+by these CHIT Marketplace Terms, you should not access or use the CHIT Marketplace, login to
+your account, or API Authenticate. Should you disagree to these CHIT Marketplace Terms
+(including any changes or amendments), please close your account in accordance with the
+Account Closure by You section.
+Following acceptance and upon confirmation that you have been established as an AZ Cash
+Solutions Member or CHIT Marketplace Vendor with access to the CHIT Marketplace, AZ Cash
+Solutions will assign and provide you with an AZ Cash Solutions Marketplace Account (your
+“AZ Cash Solutions Marketplace Account”) that will be associated with a unique
+identification number (an “ONLI ID” and/or your “ONLI ID”).
+In order to facilitate the buying and selling of CHITS within the CHIT Marketplace, AZ Cash
+Solutions has established a master depository bank account (the “AZ Cash Solutions Master
+Account”). The AZ Cash Solutions Master Account will be maintained by AZ Cash Solutions,
+but will only be used as a means for holding the funds reflected in your Virtual Funds Accounts
+(as defined below).
+As part of the AZ Cash Solutions Marketplace Account, AZ Cash Solutions will create the
+following virtual accounts on your behalf:
+151458006.1
+1. A virtual funding incoming account (the “Virtual Funds Incoming Account”); and
+2. A virtual funding outgoing account (the “Virtual Funds Outgoing Account” and
+collectively referred to with the Virtual Funds Incoming Account, the “Virtual Funds
+Accounts”).
+The Virtual Funds Incoming Account can only be used for the purchase of CHITS from another
+AZ Cash Solutions Member or CHIT Marketplace Vendor. You can transfer funds into your
+Virtual Funds Incoming Account by either (i) sending an incoming wire from your pre-approved
+external U.S. bank account; or (ii) requesting a cash pick-up from your place of business (see
+below for more information on the cash pick-up process). Incoming funds will be deposited in
+the AZ Cash Solutions Master Account and reflected in the AZ Cash Solutions Member’s Virtual
+Funds Incoming Account. Once incoming funds are reflected in the AZ Cash Solutions
+Member’s Virtual Funds Incoming Account, they will be used to purchase CHITS in the full
+amount of the amount reflected in the AZ Cash Solutions Member’s Virtual Funds Incoming
+Account.
+The Virtual Funds Outgoing Account will be used to receive the proceeds from the sale of
+CHITS to another AZ Cash Solutions Member or CHIT Marketplace Vendor. In addition, the
+Virtual Funds Outgoing Account will also serve as the source of available funds when you direct
+the CHIT Marketplace to send an outgoing wire out of the AZ Cash Solutions Master Account to
+your pre-approved external U.S. bank account.
+You acknowledge and agree that you must use an Arizona-based bank account for all money sent
+or received as an AZ Cash Solutions Member and in conjunction with the CHIT Marketplace.
+In addition to your Virtual Funds Accounts, your AZ Cash Solutions Marketplace Account will
+include the creation of a “Vault” by AZ Cash Solutions which is a self-contained digital storage
+in which your CHITS will be stored (your “Vault”). Your Vault is linked to your ONLI ID and
+uses cryptographic encryption to ensure the integrity and confidentiality of the stored CHITS.
+Your Vault will be maintained and can only be accessed by your local device that accesses the
+CHIT Marketplace.
+The transaction history and the purchase, sale and transfer of CHITS among AZ Cash Solutions
+Members within the CHIT Marketplace will be maintained on an immutable ledger that will be
+used to verify and record transactions and ownership of CHITS in the Vault of each AZ Cash
+Solutions Member and CHIT Marketplace Vendor (the “Oracle”).
+1. Purchase, Sale and Transfer of CHITS
+Purchase of CHITS.
+151458006.1
+You may PURCHASE CHITS USING U.S. DOLLARS AT A U.S. $1:1 PER CHIT. CHITS
+must be purchased with funds in your Virtual Funds Incoming Account.
+There are two sources of CHITS available to you for purchase: (i) CHITS listed for sale by other
+AZ Cash Solutions Members (other than King Family) or CHIT Marketplace Vendors (a
+“Marketplace Purchase Order”); and (ii) CHITS from King Family Ventures AZ, LLC, an
+Arizona limited liability company (“King Family”). King Family is itself an AZ Cash Solutions
+Member and serves as a CHIT treasury for the purpose of ensuring that CHITS are available for
+purchase by all AZ Cash Solutions Members when a Marketplace Purchase Order is not able to
+be fulfilled from an AZ Cash Solutions Members (other than King Family) or CHIT Marketplace
+Vendors (the “AZ Cash Treasury”).
+Funding your Virtual Funds Incoming Account begins by submitting a CHITS purchase order
+through the CHIT Marketplace (“Purchase Order”). Your Virtual Funds Incoming Account may
+be funded by either an incoming wire from your pre-approved external U.S. bank account or
+requesting a cash pick-up from your place of business as discussed below. The Purchase Order
+will list the amount of CHITS you intend to purchase, any fees charged by the CHIT
+Marketplace in connection with the Purchase Order, and the amount of funds needed in your
+Virtual Funds Incoming Account to fulfill the Purchase Order. You will be required to confirm
+the details of the Purchase Order before it can be fulfilled, and provide, in AZ Cash Solution’s
+sole discretion, sufficient evidence to verify your source of funds for such Purchase Order.
+Once the Purchase Order is confirmed by you and the source of funds is verified to the
+satisfaction of AZ Cash Solutions, in its sole discretion, you will be required to fund your Virtual
+Funds Incoming Account by either an incoming wire from your pre-approved external U.S. bank
+account or requesting a cash pick-up from your place of business as discussed below. If you have
+funds in your Virtual Funds Outgoing Account, those funds may be transferred to your Virtual
+Funds Incoming Account to fulfill a confirmed Purchase Order.
+After successfully funding your Virtual Funds Incoming Account with the amount exactly equal
+to the amount required in the Purchase Order, the CHIT Marketplace will generally automatically
+fulfill your Purchase Order with Marketplace Purchase Orders first (in order of oldest to newest
+Marketplace Purchase Order), and any remaining unfilled portion of your Purchase Order will be
+fulfilled from the AZ Cash Treasury. If the amount of money you wire to the CHIT Marketplace
+or amount of cash collected by the Cash Pickup Provider (as defined below) does not exactly
+equal the amount required in the Purchase Order, the discrepancy will be handled in accordance
+with the Funding Discrepancy Policy discussed below.
+Upon completion and fulfillment of your Purchase Order, the CHIT Marketplace will (i) credit
+your Vault by the amount of purchased CHITS and reduce your Virtual Funds Incoming Account
+by the amount required to fund your Purchase Order; and (ii) reduce the amount of CHITS in the
+Vault of the selling AZ Cash Solutions Member or CHIT Marketplace Vendor (as applicable) and
+credit such AZ Cash Solutions Member’s or CHIT Marketplace Vendor’s Virtual Funds Outgoing
+151458006.1
+Account by the amount CHITS sold (less any applicable fees). The transaction is automatically
+recorded on the Oracle.
+Prior to the final fulfillment of any Purchase Order, AZ Cash Solutions reserves the right to
+suspend any Purchase Order, cancel any Purchase Order and refuse to fulfill any Purchase Order,
+at any time and for any reason in its sole and absolute discretion.
+Purchase of CHITS with cash: Cash purchases of CHITS are subject to the following processes:
+• Armored Car Pick-Up. You must confirm your Purchase Order and satisfy our source of
+funds verification procedures prior to AZ Cash Solutions scheduling an armored car pick
+up to pick up cash at your place of business (the “Cash Pickup Provider”). If AZ Cash
+Solutions approves the purchase, AZ Cash Solutions will instruct the Cash Pickup
+Provider to dispatch an armored car to pick up the cash you identified in the Purchase
+Order at your place of business.
+The Cash Pickup Provider will inspect the cash to be picked up and note any
+discrepancies between the cash picked up and the Purchase Order. If there are any
+discrepancies between the amount of cash required to fund the Purchase Order, the
+discrepancy will be handled in accordance with the Funding Discrepancy Policy
+discussed below.
+If the actual amount of cash collected is equal to the amount required to fund the
+confirmed Purchase Order, the cash will then be delivered to the AZ Cash Solutions
+Master Account, credited to your Virtual Funds Incoming Account, and used to purchase
+the CHITS specified in the Purchase Order
+You understand that AZ Cash Solutions does not own, control or manage the Cash Pickup
+Provider. Accordingly, you acknowledge and agree that AZ Cash Solutions will not be
+responsible or liable for any direct or indirect loss, issue or hardship you may experience
+in connection with your experience with the Cash Pickup Provider or the services you
+receive from the Cash Pickup Provider including, but not limited to, (i) any loss of cash
+you may experience from the time you deliver your cash to the Cash Pickup Provider to
+the time Cash Pickup Provider deposits your cash in the AZ Cash Solutions Master
+Account, (ii) any loss of cash you may experience as a result of AZ Cash Solutions
+returning cash to you via Cash Pickup Provider, (iii) any direct or indirect loss or issue
+that may arise in connection with the availability, reliability or accuracy of Cash Pickup
+Provider’s services, (iv) any loss or issue arising from Cash Pickup Provider
+discontinuing its operations or becoming insolvent, and (v) any loss or issue you may
+experience in connection with the seizure of your cash by Federal or state authorities
+while in the possession of Cash Pickup Provider. In the event you experience any direct
+or indirect loss, issue or hardship in connection with your experience with Cash Pickup
+Provider or the services you receive from Cash Pickup Provider, your only recourse is
+against Cash Pickup Provider, and not AZ Cash Solutions. If you are not satisfied with
+151458006.1
+the services you receive from Cash Pickup Provider, you must handle those issues
+directly with Cash Pickup Provider.
+The final number of CHITS that will be issued and placed into your Vault will be
+determined solely by the amount of cash and CHITS identified in the Purchase
+Order. It is solely your responsibility to ensure that the amount of cash to be
+delivered to the Cash Pickup Provider equals the amount of cash identified in the
+Purchase Order.
+• Fund Verification Process. In order to verify funds used for a Purchase Order, and prior to
+you delivering funds via wire from your pre-approved external U.S. bank account or
+Cash Pickup Provider, AZ Cash Solutions will verify your source of funds. Information
+requested to verify your source of funds includes, but is not limited to, reports derived
+from “seed-to-sale” software, financial reports, bank records, average sales and expense
+volumes (daily, monthly, annually), percentage of transactions conducted in cash, tax
+returns, cash register reports, and any other documents or information we deem necessary
+and sufficient to verify your source of funds. If the reported net revenue does not support
+your CHIT purchase, we will reject your Purchase Order and may escalate your AZ Cash
+Solutions Marketplace Account for further review. We may contact you for additional
+information if we need to do so. In providing us with this or any other information that
+we may request from you, you confirm that the information you provide to us is accurate
+and authentic. You agree to keep us updated if any of the information you provide
+changes. You agree to comply with any information request we send to you. If you
+decline to provide the requested information, or otherwise do not comply in a timely
+manner, we reserve the right, immediately upon notice to you, to suspend or terminate
+your AZ Cash Solutions Membership and/or your access to some or all of the AZ Cash
+Solutions Benefits, including without limitation access by any of your CHIT Marketplace
+Users to the CHIT Marketplace.
+• Funding Discrepancy Policy. In order for a Purchase Order to be processed by the CHIT
+Marketplace and for you to receive the CHITS specified in the Purchase Order in your
+Vault, the amount of funds required the fulfill the Purchase Order must exactly equal the
+money received by the CHIT Marketplace via wire transfer from your pre-approved
+external U.S. bank account or cash delivered by the Cash Pickup Provider. If the amount
+of funds received by the CHIT Marketplace is more than the amount required to fulfill the
+Purchase Order, only the exact amount required to fund the Purchase Order will be
+accepted, and any excess amount will be returned to you by the same method you sent
+such funds, less any fees or other costs to return the excess amount to you. If the amount
+of funds received by the CHIT Marketplace is less than the amount required to fulfill the
+Purchase Order, the Purchase Order will be flagged by the CHIT Marketplace as having a
+discrepancy, a revised Purchase Order will be issued by the CHIT Marketplace reflecting
+the amount of funds received by the CHIT Marketplace, the revised amount of CHITS
+151458006.1
+that can be purchased with the amount of funds received, and any fees charged by the
+CHIT Marketplace in connection with the revised Purchase Order (each, a “Revised
+Purchase Order”). Each Revised Purchase Order must be accepted by you and by each
+seller of CHITS scheduled to fulfill the original Purchase Order before the transactions
+reflected in the Revised Purchase Order will be processed. If you do not confirm the
+Revised Purchase Order, the funds received by the CHIT Marketplace will be returned to
+you by the same method you sent such funds, less any fees or other costs to return the
+funds to you. If any seller of CHITS scheduled to fulfill the original Purchase Order do
+not accept the Revised Purchase Order, the CHIT Marketplace will attempt to facilitate
+another seller of CHITS to fulfill the Revised Purchase Order. If the CHIT Marketplace is
+unable to find another seller of CHITS to fulfill the Revised Purchase Order, the funds
+received by the CHIT Marketplace will be returned to you by the same method you sent
+such funds, less any fees or other costs to return the funds to you.
+Sale of CHITS.
+You may LIST CHITS FOR SALE FOR U.S. DOLLARS AT A PRICE OF U.S. $1:1 PER
+CHIT, minus applicable fees as described in these CHIT Marketplace Terms. There are two
+ways in which you can sell CHITS: (i) you can sell your CHITS to other AZ Cash Solutions
+Members or CHIT Marketplace Vendors (other than to King Family) by making a sale listing on
+the CHIT Marketplace (a “Marketplace Sale Order”), or (ii) you can sell your CHITS directly
+to the market maker (the “Market Maker”), which is currently King Family (a “Market Maker
+Sale Order”). The Market Maker has contractual commitments and obligations in place with AZ
+Cash Solutions requiring it to purchase any CHITS from AZ Cash Solutions Members or CHIT
+Marketplace Vendors that have placed a Market Maker Sale Order.
+When you submit a Marketplace Sale Order, the CHIT Marketplace will automatically fulfill
+your request from any outstanding Marketplace Purchase Orders. In the event a Marketplace
+Purchase Order is not otherwise readily available, the CHIT Marketplace will provide you with
+notification. Thereafter, you can elect to either maintain your Marketplace Sale Order, which will
+be fulfilled by the CHIT Marketplace automatically once a Marketplace Purchase Order becomes
+available, or you can direct the CHIT Marketplace to change your Marketplace Sale Order to a
+Market Maker Sale Order. When you submit a Market Maker Sale Order, the CHIT Marketplace
+will fulfill your request from the Market Maker. You agree to pay all fees associated with a
+Marketplace Sale Order and/or a Market Maker Sale Order, which my vary depending on the
+type of order placed, as described in these CHIT Marketplace Terms and set forth below.
+Once a Marketplace Sale Order or Market Maker Sale Order is fulfilled, the CHIT Marketplace
+will (i) credit your Virtual Funds Outgoing Account by the corresponding U.S. Dollar amount of
+the sold CHITS, minus applicable fees as described in these CHIT Marketplace Terms, (ii)
+reduce the CHITS in your Vault by the amount of sold CHITS; (iii) credit the CHITS in the
+purchasing AZ Cash Solutions Member’s or CHIT Marketplace Vendor’s Vault by the amount of
+purchased CHITS; and (iv) reduce the purchasing AZ Cash Solutions Member or CHIT
+151458006.1
+Marketplace Vendor’s Virtual Funds Incoming Account by the amount required to fund its
+Purchase Order. The transaction is automatically recorded on the Oracle.
+Once the proceeds from the sale are deposited into your Virtual Funds Outgoing Account, you
+may either request a wire to be sent to a pre-approved U.S. bank external account or, in
+connection with a Purchase Order, request the CHIT Marketplace to transfer the funds to your
+Virtual Funds Incoming Account (with a corresponding debit from your Virtual Funds Outgoing
+Account) to facilitate the purchase of CHITS specified in the Purchase Order.
+Transfer of CHITS Among AZ Cash Solutions Members or CHIT Marketplace Vendors.
+You may transfer your CHITS to another AZ Cash Solutions Member or CHIT Marketplace
+Vendor (a “CHIT Transfer Order”).
+To facilitate a CHIT Transfer Order, you must specify the AZ Cash Solutions Member or CHIT
+Marketplace Vendor who is to receive the CHITS (the “Transfer Recipient”), and the amount of
+CHITS to be transferred. The Transfer Recipient must acknowledge and accept the CHIT
+Transfer Order. Upon confirmation by the Transfer Recipient, the CHIT Marketplace will process
+the CHIT Transfer Order and the CHITS in your Vault will be reduced and credited to the Vault
+of the Transfer Recipient. The transaction is automatically recorded on the Oracle. The CHIT
+Marketplace will provide you and the Transfer Recipient notification confirming that the CHIT
+Transfer Order has been completed.
+THERE ARE NO FEES CHARGED FOR A CHIT TRANSFER ORDER.
+In the event a CHIT Transfer Order is processed in error, then you and the Transfer Recipient
+agree to resolve the dispute amicably. If you believe that you implemented a CHIT Transfer
+Order to a Transfer Recipient in error, then you shall notify AZ Cash Solutions as soon as
+possible, but in any event no more than 30 days of the transaction, either by email at
+contact@justazc.com or by phone at 602-900-9292 AZ Cash Solutions will then notify the
+Transfer Recipient and, if the Transfer Recipient agrees that its receipt of CHITS pursuant to the
+CHIT Transfer Order was in error, it shall notify AZ Cash Solutions of the occurrence of the
+error and the amount of CHITS transferred in error. Solely in the event AZ Cash Solutions has
+received notification and confirmation from you and the Transfer Recipient that the CHIT
+Transfer Order was in error, the CHIT Marketplace will issue a new CHIT Transfer Order, which
+must be acknowledged and approved by the original Transfer Recipient and you to facilitate a
+reversal of the CHIT Transfer Order by reducing the CHITS in the Vault of original Transfer
+Recipient and crediting them to your Vault which had transferred the CHITS in error. The
+transaction is automatically recorded on the Oracle.
+2. Ownership and Control of CHITS
+When you purchase a CHIT, that CHIT will be digitally delivered to and stored in your Vault.
+Accordingly, you will physically possess that CHIT in your Vault and you will have full
+ownership and control of your CHITS (i.e. possession of the CHIT in your Vault is proof of
+151458006.1
+ownership). At any time, subject to outages, downtime, and other applicable policies, you may
+sell or transfer your CHITS through the CHIT Marketplace as provided in these CHIT
+Marketplace Terms.
+Once a transfer of a CHIT is completed, it cannot be reversed and it is final and irrevocable. The
+CHIT Marketplace operates without a central ledger and all transactions are recorded within each
+AZ Cash Solutions Member’s or CHIT Marketplace Vendor’s Vault and verified by the Oracle.
+AZ Cash Solutions does not represent or treat any CHITS in your Vault as property belonging to
+AZ Cash Solutions. Furthermore, AZ Cash Solutions does not hold your CHITS as custodian and
+it has no ability to access the CHITS stored in your Vault. All of the CHITS that you purchase
+will remain with you and, as owner of your CHITS, you will bear all risk of loss of the CHITS
+held in your Vault. You acknowledge and agree that you may not loan or hypothecate the CHITS
+you maintain in your Vault. Your CHITS may only be used on the CHIT Marketplace, and cannot
+be used with any other product.
+Replacement CHITS
+In the event you lose or unable to access your Vault, the potential replacement of the CHITS
+located in your Vault will only be possible in the event such CHITS were registered in the Oracle
+as being in your Vault at the time the CHITS are lost.
+Under such circumstances, you can notify the CHIT Marketplace that you have lost access to
+your Vault. Thereafter, the CHIT Marketplace will verify and ascertain whether the CHITS in
+your Vault were registered and verifiable in the Oracle (in such an event “Verified Lost
+CHITS”). The CHIT Marketplace will then notify you of the amount of Verified Lost CHITS
+that are available for replacement. If verified, you can then request the CHIT Marketplace to
+issue replacement CHITS up to the amount of the Verified Lost CHITS (“Replacement
+CHITS”). The CHIT Marketplace will then request the AZ Cash Solutions Treasury to issue
+Replacement CHITS to you; provided, however, you will be subject to applicable fees for the
+issuance of Replacement CHITS as set forth in these CHIT Marketplace Terms. Upon the
+issuance of Replacement CHITS, the Verified Lost CHITS will be blacklisted and no longer
+available for use within the CHIT Marketplace.
+3. Schedule of Fees
+By using the CHIT Marketplace you agree to pay the following fees, which will apply based on
+your use of the CHIT Marketplace and must be paid in cash, whether delivered via wire from
+your pre-approved external U.S. bank account or Cash Pickup Provider:
+FEE CHART
+
+151458006.1
+
+Tier 1: Government or
+Utility User Tier 2: General User
+Definition
+Tier 1 Users: AZ Cash
+Solutions Members or CHIT
+Marketplace Vendors that
+only sell and transfer CHITS
+(i.e., any entity that receives
+payments from Tier 1
+Users), but does not need to
+purchase CHITS.
+
+Tier 2 Users: AZ Cash
+Solutions Members orCHIT Marketplace
+Vendors that purchase, transfer and sell CHITS (i.e., all parties directly involved in the vertical supply chain of cannabis).
+1. Utility companies
+2. Tax Authorities
+Example Users
+1. Licensed Cultivators
+2. Licensed Testing Labs
+3. Licensed
+Manufacturers
+4. Licensed Retail
+Dispensaries
+5. Landlords
+
+Fees Charged by User Type: Tier 1 User Tier 2 User
+Account Set-up Fee $0 $0
+Cancellation Fee $0 $0
+CHIT Purchase Order Fee $0 $0
+Marketplace Sale Order Listing
+Fee 2.50% 2.50%
+Market Maker Sale Order Fee 0.00% 5.00%
+Cash On-Boarding Fee 0.00% 1.00%
+Replacement Chit Fee 10.00% 10.00%
+
+We reserve the right to adjust our fees and pricing at any time. We will inform you of changes in
+our fees and pricing by posting these on the CHIT Marketplace and emailing you at least 15
+calendar days prior to any changes taking effect. If you do not agree with our changes in fees, or
+pricing, you must notify us immediately and you must stop accessing the CHIT Marketplace. If
+you continue using the CHIT Marketplace following our notice of the changes in our fees or
+pricing, we will deem your continued use as your consent to our revised fees and pricing and the
+revised fees and pricing shall be effective at such time.
+4. Account Information and Transaction History
+151458006.1
+You will be able to view the amount of funds credited to your Virtual Funds Accounts on the
+CHIT Marketplace through the CHIT Marketplace. The transaction history of the CHIT
+Marketplace will be maintained on the Oracle which will contain all of your AZ Cash Solutions
+account activity, including balances in your Virtual Funds Accounts, CHIT purchases, sales and
+transfers and pending transactions. Through the CHIT Marketplace, you can also view any fees
+charged by AZ Cash Solutions. It is important that you note that nothing in your transaction
+history should be treated as a valuation of the U.S. Dollar equivalent amount maintained in your
+Virtual Funds Accounts.
+Unauthorized and Incorrect Transactions. When an order to purchase, sell or transfer CHITS is
+placed using your AZ Cash Solutions Marketplace Account, we will assume that you authorized
+such transaction, unless you notify us otherwise. If you believe you did not authorize a particular
+transaction or that a transaction was incorrectly carried out, you must contact AZ Cash Solutions
+as soon as possible, but in any event no more than 30 days of the transaction, either by email at
+contact@justazc.com or by phone at 602-900-9292. ‑ It is important that you check the balances 1
+in your Virtual Funds Accounts and your transaction history regularly to ensure you notify us as
+soon as possible of any transaction that you believe was unauthorized or incorrect. AZ Cash
+Solutions and the CHIT Marketplace have no ability to revoke, modify, reverse, or otherwise
+change a transaction that has already been processed by the CHIT Marketplace. We are not
+responsible for any claim for unauthorized or incorrect transactions unless you have notified us
+in accordance with this section.
+5. AZ Cash Solutions Membership Account
+You agree that you will not allow any persons who have not satisfied our BSA/AML Program to
+access the CHIT Marketplace. AZ Cash Solutions Membership and any accounts opened in
+connection with the CHIT Marketplace (each, an “AZ Cash Solutions Account”) must be
+opened and established on behalf of a legal entity by a beneficial owner and/or designated
+representative of that legal entity with legal authority to bind such entity. You hereby represent,
+warrant and agree that you are a beneficial owner and/or designated representative of that legal
+entity. You hereby authorize us to take any measures that we consider necessary and appropriate
+to verify and authenticate your identity, confirm the information you submit to us, and to take
+any action we deem necessary based on the results. Furthermore, you represent and warrant to us
+that you will use the CHIT Marketplace only for yourself, and not on behalf of any third party.
+You are responsible for restricting access to your AZ Cash Solutions Account, and you agree to
+accept responsibility for all activities that occur by any user that you provide access to your AZ
+Cash Solutions Account.
+Unavailability and Operational Challenges.
+Access to the CHIT Marketplace may become unavailable or may be interrupted, especially
+during times of significant transaction volume or during regularly scheduled or emergency
+maintenance. This could result in your inability to access your AZ Cash Solutions Account. and/
+Confirm. 1
+151458006.1
+or inability to conduct transactions through your AZ Cash Solutions Account on the CHIT
+Marketplace for periods of time, and may also lead to delays in response from our Technology
+Support Department. Although we strive to provide you with excellent service, we do not
+represent that the CHIT Marketplace will be available at all times and without interruption, and
+AZ Cash Solutions does not guarantee that all CHIT transactions will be completed immediately.
+AZ Cash Solutions will not be liable for any losses resulting from, or arising out of, transaction
+delays.
+You further agree and accept the risk of operational challenges. AZ Cash Solutions may
+experience sophisticated cyber-attacks, or other operational or technical difficulties that may
+cause interruptions to the CHIT Marketplace. You agree to accept the risk of transaction failure
+resulting from unanticipated or heightened technical difficulties, including those resulting from
+sophisticated attacks, during time of significant transaction volume, or during regularly schedule
+or emergency maintenance. You agree not to hold AZ Cash Solutions accountable or otherwise
+liable for any related losses.
+Login Credentials and Security.
+You agree that your AZ Cash Solutions Account login credentials and any other required forms
+of authentication, where applicable, will be chosen by you. You are responsible for creating a
+strong password and maintaining adequate security and control of any and all equipment and
+codes that your CHIT Marketplace Users use to access your AZ Cash Solutions Account
+including, but not limited to, smartphones of CHIT Marketplace Users, usernames, passwords,
+hints, personal identification numbers (PINs) and recovery codes. You also agree to keep all
+login credentials and any other required forms of authentication confidential. Any loss or
+compromise of the foregoing and/or your personal information may result in unauthorized access
+to your AZ Cash Solutions Account(s) by third-parties, the loss or theft of CHITS, or the inability
+to access your CHITS stored in your Vault. You and your CHIT Marketplace Users are
+responsible for keeping your email addresses and telephone numbers current in your AZ Cash
+Solutions Account so we can send you notices and alerts. CHIT Marketplace Users should never
+allow remote access or share computer screens with someone else when logged on to the CHIT
+Marketplace with an AZ Cash Solutions Account. You agree and understand that you are
+solely responsible (and you will not hold us responsible) for managing and maintaining the
+security of your AZ Cash Solutions Account, your and your authorized user’s login
+credentials and any other required forms of authentication. You further agree and
+understand that we are not responsible (and you will not hold us responsible) for any
+unauthorized access to or use of your AZ Cash Solutions Account or the inability to access
+your CHITS from your Vault due to loss of user credentials. In the event you believe your AZ
+Cash Solutions Account information has been compromised, immediately contact AZ Cash
+Solution’s Technology Support Department immediately at support@justazc.com, or by phone at
+602-900-9AZC.
+151458006.1
+6. Information Required for Membership, Consent to Access, Processing and Storage
+of Your Personal Data
+We reserve the right to require you to provide us with any information and documentation we
+deem necessary to comply with our BSA/AML Program requirements. The information we
+request may include, but shall not be limited to, identifying information such as your complete
+name, address, date of formation, corporate documents, taxpayer identification number, state
+cannabis license, state cannabis license application (and related documentation), a list of
+products you sell, customers list, vendors list, average sales and expense volumes (daily,
+monthly, annually), percentage of transactions conducted in cash, access to, or reports derived
+from, “seed-to-sale” software, projected CHIT transactions (purchases, transfers, and sales), and
+any other documents or information we deem necessary and sufficient to verify your source of
+funds. We may also request identifying personal information of beneficial owners, control
+persons and designated representatives, such as complete name, address, date of birth, taxpayer
+identification number, and government-issued photo bearing identification. In providing us with
+this or any other information that we may request from you, you confirm that the information
+you provide to us is accurate and authentic. You agree to keep us updated if any of the
+information you provide changes. You agree to comply with any information request we send to
+you. If you decline to provide the requested information, or otherwise do not comply in a timely
+manner, we reserve the right, immediately upon notice to you, to suspend or terminate your AZ
+Cash Solutions Membership and/or your access to some or all of the AZ Cash Solutions Benefits,
+including without limitation access by any of your CHIT Marketplace Users.
+To verify the information you provided to us and to ensure your information is kept current, you
+acknowledge and agree that, as permitted by law and to the extent applicable, we may, in our
+sole discretion, whether directly or through third parties, make inquiries that we consider
+necessary to verify your identity, and that of any beneficial owners, control persons and
+designated representatives, including contacting appropriate Arizona state or local authorities in
+connection with your cannabis license and make inquiries and obtain reports from third parties
+on a periodic basis to verify your identity and the information you provided in order for us to
+comply with our requirements under Applicable Law and ensure there have by no changes to any
+information previously submitted to us. Your access to the some or all of the AZ Cash Solutions
+Benefits, including access by any of your CHIT Marketplace Users, may be altered as a result of
+information collected about you on an ongoing basis.
+151458006.1
+When we carry out inquiries, you acknowledge and understand that your personal data, and that
+of any beneficial owners, control persons and designated representatives, may be disclosed to
+identity verification, compliance data recordation, credit reference, fraud prevention, financial
+crime agencies or governmental authorities and that these agencies may respond to our inquiries
+in full.
+You consent to us accessing, processing and retaining any personal information you provide to us
+for the purpose of us providing AZ Cash Solutions Membership to you. This consent is not
+related to, and does not affect, any rights or obligations we or you have in accordance with data
+protection laws, privacy laws and regulations. You can withdraw your consent at any time by
+cancelling your AZ Cash Solutions Membership. However, we may retain and continue to
+process your personal information for other purposes. Our current Privacy Policy (as provided to
+you in connection with these CHIT Marketplace Terms and found at the following link is
+incorporated into these CHIT Marketplace Terms; by accepting these CHIT Marketplace Terms,
+you are also accepting the processing of your personal information as outlined in such Privacy
+Policy. We reserve the right at all times to monitor, review, and/or disclose any information as
+necessary to satisfy any Applicable Laws and Regulations (as defined below), legal processes or
+governmental requests.
+Neither you nor any related party shall engage in conduct that is in violation of any Applicable
+Laws and Regulations (as defined below).
+7. Applicable Laws and Regulations
+Your AZ Cash Solutions Membership, your use of the CHIT Marketplace and your relationship
+with AZ Cash Solutions is subject to various laws, rules and regulations including, but not
+limited to: (i) the Bank Secrecy Act of 1970, as amended (“BSA”) (31 U.S.C. §§ 5311 et seq.);
+(ii) applicable BSA regulations promulgated by the U.S. Department of the Treasury, Financial
+Crimes Enforcement Network (“FinCEN”) (31 C.F.R. Chapter X); (iii) Responsible Adult Use
+of Marijuana (A.R.S. §§ 36-2850 et seq.); (iv) the Arizona Medical Marijuana Act (AZ Rev. Stat.
+§§ 36-2801 et seq.), regulations issued by the Arizona Department of Health Services, A.C.C.
+R9-17-101 et seq. and A.C.C. R9-18-101 et seq.; (v) Controlled Substances Act (21 U.S.C. §§
+801 et seq.); (vi) regulations issued by the U.S. Department of the Treasury, Office of Foreign
+Assets Control (“OFAC”) (31 C.F.R. Chapter V) and (vii) any other laws and regulations
+applicable to AZ Cash Solutions, the CHIT Marketplace, and you or your business (collectively,
+the “Applicable Laws and Regulations”).
+151458006.1
+8. Compliance with Laws
+You are responsible for complying with all Applicable Laws and Regulations. You agree that AZ
+Cash Solutions is not responsible for determining whether or which laws may apply to your
+transactions, including tax laws. It is your sole responsibility to determine whether, and to what
+extent, any taxes apply to any transactions you conduct through utilizing the CHIT Marketplace,
+and to withhold, collect, report and remit the correct amounts of taxes to the appropriate tax
+authorities.
+Judicial, legislative and regulatory changes or actions at the U.S. federal or state level may
+adversely affect or impact your ability to purchaser, sell or transfer your CHITS. You
+acknowledge and agree that we are not responsible for any changes in Applicable Laws and
+Regulations and any loss you may experience as a result of changes to Applicable Laws and
+Regulations or judicial decisions.
+9. Prohibited Activities
+In connection with your use of the CHIT Marketplace, you hereby agree that you any CHIT
+Marketplace User (i) is subject to and will be bound by our Privacy Policy and these CHIT
+Marketplace Terms; and (ii) will not engage in any of the Prohibited Activities as defined in our
+Privacy Policy. Prohibited Activities for purposes of these CHIT Marketplace Terms means any
+of the Prohibited Activities as defined in our Privacy Policy, any violation of your AZ Cash
+Solutions Membership Agreement, any violation of any Applicable Laws and Regulations, any
+violation of our BSA/AML Program, and any violation of these CHIT Marketplace Terms.
+If we believe that any of your CHIT Marketplace Users have engaged in any Prohibited Activity,
+we will consider you to be in violation of these CHIT Marketplace Terms and we may take a
+number of actions to protect AZ Cash Solutions, AZ Cash Solutions Members and others at any
+time and in our sole discretion. The actions we may take include, but are not limited to,
+suspending (temporarily or permanently) your AZ Cash Solutions Membership or your access to
+any and all AZ Cash Solutions Benefits, and/or cancelling your AZ Cash Solutions Membership
+immediately and without penalty to AZ Cash Solutions.
+10. Account Closure by You
+You may cancel your AZ Cash Solutions Membership or access to the CHIT Marketplace at any
+time, including access by any CHIT Marketplace User if you are the CHIT Marketplace Member
+or CHIT Marketplace Vendor. You agree and understand that cancelling your AZ Cash Solutions
+Membership will not affect any rights and obligations with us or any third party incurred prior to
+the date of your cancellation. You may be required to either cancel or complete all open orders
+for the transfer, sale or purchase of CHITS and, in accordance with the provisions of these CHIT
+Marketplace Terms, liquidate any CHITS remaining in your Vault. You are responsible for any
+fees, costs, expenses, charges, or obligations (including, but not limited to, fees applicable to
+selling any CHITS that remain in your Vault) associated with the cancellation of your AZ Cash
+151458006.1
+Solutions Membership. You may not cancel your AZ Cash Solutions Membership to avoid
+paying any fees otherwise due. You will not be charged for canceling your AZ Cash Solutions
+Membership, although you will be required to pay any outstanding fees and amounts owed to AZ
+Cash Solutions and may be charged a fee to cancel the account of a CHIT Marketplace User. A
+CHIT Marketplace Member or CHIT Marketplace Vendor canceling the account of a CHIT
+Marketplace User will not otherwise affect your AZ Cash Solution Membership other than the
+inability to access the cancelled the CHIT Marketplace via such cancelled CHIT Marketplace
+User account.
+11. Account Suspension, Termination or Closure by AZ Cash Solutions
+You acknowledge and agree that AZ Cash Solutions offers its services to you so you can conduct
+your business safely. However, we reserve the right to suspend, restrict or terminate your AZ
+Cash Solutions Membership and your access to the CHIT Marketplace, deactivate and/or cancel
+your AZ Cash Solutions Account and/or restrict your access to your AZ Cash Solutions Account,
+at any time and without prior notice, for any reason we deem appropriate in our sole and absolute
+discretion.
+You agree and understand that if we terminate, suspend or cancel your AZ Cash Solutions
+Membership and/or your access to the CHIT Marketplace, your rights and obligations under
+these CHIT Marketplace Terms will continue. You further agree and understand that we have the
+right to take any and all necessary and appropriate actions pursuant to these CHIT Marketplace
+Terms and to comply with all Applicable Laws and Regulations.
+12. Account Investigations
+You agree and understand that we have the right to investigate your AZ Cash Solutions Account,
+at any time and for any reason we deem appropriate including if we suspect, in our sole
+discretion, that you may be engaged in Prohibited Activities as described in Section 9 of these
+CHIT Marketplace Terms (each, a “Conduct Violation”). You further agree and understand that
+we have the right to immediately investigate your AZ Cash Solutions Account if: (a) we are
+required to do so by a regulatory authority, court order, facially valid subpoena, or binding order
+of a government authority, (b) your AZ Cash Solutions Account is subject to any pending
+litigation, investigation, or governmental proceeding, or (c) your AZ Cash Solutions Account has
+not been accessed in two years or more. We do not have an obligation to contest or appeal any
+court order or legal process involving you or your AZ Cash Solutions Account.
+If we suspect that you have committed a Conduct Violation we may, in the exercise of our sole
+discretion, give you Written Notice (as defined in Section 34 of these CHIT Marketplace Terms)
+and share the general nature of the allegations as well as the specific provisions of these CHIT
+Marketplace Terms that appear to have been violated, unless prohibited by Applicable Laws and
+Regulations. You will have the right to submit, within seven calendar days from the date of the
+Written Notice, a written statement to our Compliance Department as provided in Section 34 of
+these CHIT Marketplace Terms explaining why no disciplinary action should be taken with
+151458006.1
+respect to your AZ Cash Solutions Account. We will review all information available to us and,
+following our investigation, we will determine, in our sole and absolute discretion, the
+appropriate action to take with respect to your AZ Cash Solutions Account.
+13. Account Remedies for Breach
+You agree and understand that if you or your AZ Cash Solutions Accounts are determined, in our
+sole discretion, to possibly have participated in a Conduct Violation, we will have the right to
+charge you: (i) the value of any fees owed in connection with these CHIT Marketplace Terms
+and (ii) any other damages suffered by us as a result of the Conduct Violation. You further agree
+and understand that if we determine, in our sole discretion, that you may have colluded,
+coordinated, and/or collaborated with any other AZ Cash Solutions Member to commit a
+Conduct Violation, you and that AZ Cash Solutions Member will be jointly and severally liable
+for the whole value of any fee and damages to which we are entitled under these CHIT
+Marketplace Terms. If you disagree with any determination made or remedy exercised under this
+subsection, you may bring an action as provided in these CHIT Marketplace Terms.
+14. Pending Transactions
+Upon cancellation of your AZ Cash Solutions Membership, you forfeit all rights and claims
+against AZ Cash Solutions in relation to any CHITS otherwise eligible for sale. AZ Cash
+Solutions may, in its sole discretion, give you limited temporary access to your CHIT
+Marketplace account to facilitate the sale of your CHITS to the market maker. Such sale is
+subject to any fees set forth in these CHIT Marketplace Terms and Section 12, and immediately
+after such sale you shall, wire any remaining funds in your CHIT Marketplace account to your
+previously AZ Cash Solutions approved Arizona-based bank account.
+15. Liability
+In the event that you or AZ Cash Solutions terminates your access to any AZ Cash Solutions
+Benefits, or your AZ Cash Solutions Membership, you remain liable for all activity conducted on
+or with your AZ Cash Solutions Account while it was active and for all amounts due hereunder.
+16. Data Protection, Privacy and Security
+In connection with your use of the CHIT Marketplace, you hereby agree that you and each CHIT
+Marketplace User of your AZ Cash Solutions Account is subject to and bound by our Privacy
+Policy and these CHIT Marketplace Terms. AZ Cash Solutions will not share any contact or
+personal information about an AZ Cash Solutions Member with other members, non-members,
+or any third parties, except as required by law or necessary for the provision of the CHIT
+Marketplace.
+17. Computer Viruses
+151458006.1
+We shall not bear any liability, whatsoever, for any damage or interruptions caused by any
+computer viruses or other malicious code that may affect your computer or other equipment, or
+any phishing, spoofing or other attack. We advise the regular use of a reputable and readily
+available virus screening and prevention software. You should also be aware that SMS and email
+services are vulnerable to spoofing and phishing attacks and should use care in reviewing
+messages purporting to originate from AZ Cash Solutions.
+18. Other Restrictions.
+Your authorization to access and use the CHIT Marketplace, and related content, materials,
+information (collectively, the “Content”) is limited, revocable, nonexclusive, nontransferable
+and nonsublicenseable, and solely for purposes specified in these CHIT Marketplace Terms and/
+or as otherwise approved by AZ Cash Solutions from time to time. Any other use of the Content
+is expressly prohibited and all other right, title, and interest in the AZ Cash Solutions
+Membership or Content is exclusively the property of AZ Cash Solutions and its licensors. You
+agree you will not directly or indirectly copy, transmit, distribute, sell, license, reverse engineer,
+modify, publish, or participate in the transfer or sale of, create derivative works from, or in any
+other way exploit any of the Content, in whole or in part, or assist others in doing so, without the
+prior written consent of AZ Cash Solutions. “AZC”, and all logos related to the AZ Cash
+Solutions Membership or displayed in or on any AZ Cash Solutions Benefits are either
+trademarks or registered marks of AZ Cash Solutions or its licensors. You may not copy, imitate
+or use them without AZ Cash Solutions prior written consent. You agree, represent, and warrant
+that you will not spoof, hack, manipulate, or falsify location data from any computer or device
+accessing or associated with the CHIT Marketplace, AZC App, or any third party applications or
+software, including without limitation software related to authentication.
+19. Recording and Recordkeeping
+You agree and understand that for our mutual protection we may electronically record any
+telephone conversation we have with you. You also agree and understand that we maintain and
+retain records of all information, activities, and communications relating to your AZ Cash
+Solutions Membership, and use of the CHIT Marketplace.
+20. Relationship of the Parties
+AZ Cash Solutions is an independent contractor for all purposes. Nothing in these CHIT
+Marketplace Terms shall be deemed or is intended to be deemed, nor shall it cause, you and AZ
+Cash Solutions to be treated as partners, joint ventures, or otherwise as joint associates for profit,
+or either you or AZ Cash Solutions to be treated as the agent of the other.
+21. Release of AZ Cash Solutions; Indemnification
+If you have a dispute with one or more AZ Cash Solutions Members, Preferred Vendors, or CHIT
+Marketplace Vendors, you release AZ Cash Solutions, its technology providers and licensors,
+151458006.1
+affiliates, and service providers, and each of their respective officers, directors, agents, joint
+venturers, employees and representatives for, from and against any and all claims, demands and
+damages (actual and consequential) of every kind and nature arising out of or in any way
+connected with such disputes.
+You agree to indemnify and hold AZ Cash Solutions, its affiliates and service providers, and each
+of their or their respective officers, directors, agents, joint venturers, employees and
+representatives, harmless from any claim or demand (including attorneys’ fees and any fines,
+fees or penalties imposed by any regulatory authority or court) arising out of or related to your
+breach of these CHIT Marketplace Terms or your violation of any law, rule or regulation, or the
+rights of any third party.
+22. Limitation of Liability; No Warranty
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, AZ CASH SOLUTIONS, ITS AFFILIATES AND SERVICE
+PROVIDERS, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, AGENTS, JOINT
+VENTURERS, EMPLOYEES AND REPRESENTATIVES WILL NOT BE LIABLE FOR ANY
+DIRECT OR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY
+DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED
+TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA, OR OTHER INTANGIBLE
+LOSSES (EVEN IF AZ CASH SOLUTIONS HAS BEEN ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE,
+STRICT LIABILITY, OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE
+INABILITY TO USE THE CHIT MARKETPLACE; (II) THE COST OF PROCUREMENT OF
+SUBSTITUTE SERVICES RESULTING FROM ANY DATA, INFORMATION, OR
+SERVICES PURCHASED OR OBTAINED OR TRANSACTIONS ENTERED INTO
+THROUGH THE CHIT MARKETPLACE; (III) UNAUTHORIZED ACCESS TO OR
+ALTERATION OF YOUR TRANSMISSIONS OR DATA; OR (IV) ANY OTHER MATTER
+RELATING TO YOUR AZ CASH SOLUTIONS MEMBERSHIP.
+IF YOU ARE DISSATISFIED WITH ANY PORTION OF YOUR AZ CASH SOLUTIONS
+MEMBERSHIP OR WITH THESE CHIT MARKETPLACE TERMS, YOUR SOLE AND
+EXCLUSIVE REMEDY IS TO DISCONTINUE YOUR AZ CASH SOLUTIONS
+MEMBERSHIP AND YOUR ACCESS TO THE CHIT MARKETPLACE.
+AZ CASH SOLUTIONS MEMBERSHIP IS PROVIDED ON AN “AS IS” AND “AS
+AVAILABLE” BASIS WITHOUT ANY REPRESENTATION OR WARRANTY, WHETHER
+EXPRESS, IMPLIED OR STATUTORY. AZ CASH SOLUTIONS, OUR AFFILIATES, AND
+OUR RESPECTIVE OFFICERS, DIRECTORS, AGENTS, JOINT VENTURERS,
+EMPLOYEES, REPRESENTATIVES AND SUPPLIERS SPECIFICALLY DISCLAIM ANY
+IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE OR NON-INFRINGEMENT. AZ CASH SOLUTIONS MAKES NO
+WARRANTY THAT (I) THE AZ CASH SOLUTIONS MEMBERSHIP WILL MEET YOUR
+151458006.1
+REQUIREMENTS, (II) THE AZ CASH SOLUTIONS MEMBERSHIP AND ACCESS TO THE
+CHIT MARKETPLACE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-
+FREE, OR (III) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR
+OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE CHIT
+MARKETPLACE WILL MEET YOUR EXPECTATIONS.
+23. Force Majeure
+AZ Cash Solutions shall have no liability for any delays, failure in performance or interruption of
+the CHIT Marketplace which result directly or indirectly from any cause or condition beyond our
+reasonable control, including but not limited to, any delay or failure due to any act of God, act of
+civil or military authorities, act of terrorists, civil disturbance, war, strike or other labor dispute,
+fire, interruption in telecommunications or Internet services or network provider services, failure
+of equipment and/or software, other catastrophe or any other occurrence which is beyond our
+reasonable control and shall not affect the validity and enforceability of any remaining
+provisions.
+24. Dispute Resolution; Arbitration
+If a dispute arises between you and us, our goal is to learn about and address your concerns. If
+we are unable to address your concerns to your satisfaction, we will seek to provide you with a
+neutral and cost-effective means of resolving the dispute quickly. Disputes between you and AZ
+Cash Solutions regarding AZ Cash Solutions Membership or the CHIT Marketplace may be
+reported to: compliance@justazc.com. We will endeavor in good faith to resolve any claim you
+raise as expeditiously as possible. If not resolved within 60 days from the date a claim is raised
+to us by you, any claim, will be settled by binding arbitration as provided below.
+PLEASE READ THIS ARBITRATION SECTION CAREFULLY. IT AFFECTS YOUR LEGAL
+RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+All disputes, controversies or differences of any kind arising out of or in connection with or
+related in any way to these CHIT Marketplace Terms and/or the AZ Cash Solutions Membership
+shall be finally settled by final and binding arbitration under the then-effective Commercial
+Arbitration Rules of the American Arbitration Association (the “Rules”) by three arbitrators. AZ
+Cash Solutions shall nominate one arbitrator, you shall nominate one arbitrator, and the two
+arbitrators so selected shall jointly nominate the third arbitrator. If the first two arbitrators cannot
+agree on a third arbitrator within thirty (30) days, the third arbitrator shall be appointed by the
+American Arbitration Association in accordance with the Rules. The place of arbitration shall be
+Phoenix, Arizona. The laws of the State of Arizona, without giving effect to any choice or
+conflict of law principle, provision or rule, shall govern the arbitration and all disputes
+determined therein. The arbitrators shall have the power to appoint subject matter experts. The
+arbitrators may order the pre-hearing production or exchange of documentary evidence and may
+require written submissions from you and AZ Cash Solutions. The arbitrators shall have the
+authority to award any remedy or relief that a court in the State of Arizona could order or grant,
+151458006.1
+including specific performance or any obligation created under these CHIT Marketplace Terms,
+the issuance of injunctive or other provisions of relief, or the imposition of sanctions for abuse or
+frustration of the arbitration process. In addition, the arbitrators shall not issue any award, grant
+any relief or take any action that is prohibited by or inconsistent with the provisions of these
+CHIT Marketplace Terms. The award rendered by the arbitrators shall be final and binding and
+judgment on the award may be entered in any court having jurisdiction thereof.
+Notwithstanding the terms of these CHIT Marketplace Terms, either AZ Cash Solutions or you
+may at any time seek injunctive or other provisional relief from a court with appropriate
+jurisdiction to enjoin any prospective ongoing breach of these CHIT Marketplace Terms or
+provide such other equitable relief pending the final resolution of any such dispute pursuant to
+the binding arbitration set forth above.
+No arbitrator may award damages or other relief in excess of the damages or other relief
+requested in a claim (or in any amendment to such claim). The arbitrators may instruct the non-
+prevailing party to pay all costs of the arbitration, including the fees and expenses of the
+arbitrators and the reasonable fees and expenses of legal counsel of the prevailing party. If the
+arbitrators determine that there is not a prevailing party, each party shall be instructed to bear
+such party’s own costs and to pay one-half of the fees and expenses of the arbitrators.
+You and AZ Cash Solutions hereby agree that any legal proceeding instituted to enforce the
+provisions of these CHIT Marketplace Terms, including an arbitration award hereunder, may be
+brought in the U.S. federal or state courts situated in Phoenix, Arizona, and you hereby submit to
+personal jurisdiction therein and irrevocably waive any objection as to venue therein, and further
+agrees not to plead or claim in any such court that any such proceeding has been brought in an
+inconvenient forum.
+25. Class Action Waiver
+You and AZ Cash Solutions agree that any and all arbitration shall be conducted in your
+individual capacities only and not as a class action or other representative action, and you and
+AZ Cash Solutions expressly waive your right to file a class action or seek relief on a class basis
+or any other representative basis. YOU AND AZ CASH SOLUTIONS AGREE THAT EACH
+MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL
+CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED
+CLASS OR REPRESENTATIVE PROCEEDING.
+If any court or arbitrator determines that the class action waiver above is void or unenforceable
+for any reason or that an arbitration can proceed on a class basis, then the arbitration provisions
+set forth above shall be deemed null and void in their entirety and the parties shall be deemed
+to have not agreed to arbitrate disputes.
+26. Exception - Litigation of Intellectual Property
+151458006.1
+Notwithstanding your and AZ Cash Solution’s decision to resolve all disputes through mandatory
+arbitration, either party may bring enforcement actions, validity determinations or claims arising
+from or relating to theft, piracy or unauthorized use of intellectual property in state or federal
+court or in the United States Patent and Trademark Office to protect its intellectual property
+rights (“intellectual property rights” means patents, copyrights, moral rights, trademarks, and
+trade secrets, but not privacy or publicity rights).
+27. Entire Agreement
+These CHIT Marketplace Terms, and any policies, annexes and exhibits incorporated by
+reference herein, including, without limitation, the Privacy Policy, your AZ Cash Solutions
+Membership Agreement, and any Terms and Conditions applicable to your use of an AZ Cash
+Solutions Benefit, comprise the entire understanding and agreement between you and AZ Cash
+Solutions as to the subject matter hereof, and supersedes any and all prior discussions,
+agreements and understandings of any kind (including without limitation any prior versions of
+these CHIT Marketplace Terms), and every nature between and among you and AZ Cash
+Solutions. Section headings in these CHIT Marketplace Terms are for convenience only and shall
+not govern the meaning or interpretation of any provision of these CHIT Marketplace Terms. To
+the extent any conflicts arise between these CHIT Marketplace Terms and your AZ Cash
+Solutions Membership Agreement, the CHIT Marketplace Terms shall govern.
+28. Assignment
+You may not assign, sublicense, encumber or otherwise transfer any rights and/or licenses
+granted under these CHIT Marketplace Terms. We reserve the right to assign our rights without
+restriction, including without limitation to any AZ Cash Solutions affiliates or subsidiaries, or to
+any successor in interest. Any attempted transfer or assignment in violation of these CHIT
+Marketplace Terms shall be null and void. Subject to the foregoing, these CHIT Marketplace
+Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
+29. Severability
+If any provision of these CHIT Marketplace Terms shall be determined to be invalid or
+unenforceable, such provision will be changed and interpreted to accomplish the objectives of
+the provision to the greatest extent possible under any applicable law and the validity or
+enforceability of any other provision of these CHIT Marketplace Terms shall not be affected.
+30. Change of Control
+In the event that AZ Cash Solutions is acquired by or merged with a third-party entity, we reserve
+the right, in any of these circumstances, to transfer or assign the information we have collected
+from you as part of such merger, acquisition, sale, or other change of control. In the event of your
+business is acquired by or merged with a third-party entity, we reserve the right, in any of these
+circumstances, to cancel and/or suspend your AZ Cash Solutions Membership until we can
+151458006.1
+complete our review of the third party entity and ensure compliance with all Applicable Laws
+and Regulations.
+31. Injunctive Relief
+You agree and understand that your obligations and the obligations of each AZ Cash Solutions
+Member set forth in these CHIT Marketplace Terms are necessary and reasonable in order to
+protect us and our business. You expressly agree that due to the unique nature of our business,
+monetary damages would be inadequate to compensate us for any breach by you of your
+covenants and agreements set forth in these CHIT Marketplace Terms. Accordingly, you agree
+and understand that any such violation or threatened violation shall cause irreparable injury to
+the us and that, in addition to any other remedies that may be available, in law, in equity or
+otherwise, we shall be entitled to obtain injunctive relief against any threatened breach of these
+CHIT Marketplace Terms or your continuation of any such breach, without the necessity of
+proving actual damages.
+32. Survival
+All provisions of these CHIT Marketplace Terms which by their nature extend beyond the
+expiration or termination of these CHIT Marketplace Terms, including, without limitation,
+sections pertaining to suspension or termination, AZ Cash Solutions Membership cancellation,
+debts owed to AZ Cash Solutions, general use of the CHIT Marketplace, disputes with AZ Cash
+Solutions, arbitration, and general provisions, shall survive the termination or expiration of these
+CHIT Marketplace Terms.
+33. Governing Law
+You agree that the laws of the State of Arizona, without regard to principles of conflict of laws,
+will govern these CHIT Marketplace Terms and any claim or dispute that has arisen or may arise
+between you and AZ Cash Solutions, except to the extent governed by applicable federal law.
+34. Electronic Communications; Written Notice
+To the fullest extent permitted by law, notices or other communications from AZ Cash Solutions
+to you regarding AZ Cash Solutions Membership or the CHIT Marketplace
+(“Communications”) may be provided to you electronically, and you consent and agree to
+receive Communications in an electronic form. Electronic Communications may be posted on
+the pages within the AZC App, CHIT Marketplace or delivered to the email address on record for
+your AZ Cash Solutions Membership, you agree and understand that each of these methods
+constitutes written notice (“Written Notice”) from us to you. If your contact details change, you
+agree to let us know immediately. If you do not, we will not be responsible if you do not receive
+information, notices or other important information from us. If you email contact@justazc.com,
+this constitutes Written Notice from you to us. For all notices made by email, the date of receipt
+151458006.1
+is considered to be the date of transmission. Your consent to receive Communications
+electronically is valid until you revoke your consent by contacting us at: contact@justazc.com. If
+you revoke your consent to receive Communications electronically, we may terminate your right
+to use the any AZ Cash Solutions Benefits or your AZ Cash Solutions Membership, and you
+accept sole liability for any consequence resulting from the suspension or termination of any AZ
+Cash Solutions Benefits or AZ Cash Solutions Membership to the extent permitted by law.
+35. Hardware Requirements
+Accessing the CHIT Marketplace requires certain hardware and software. AZ Cash Solutions
+will initially provide all hardware and software required to access the CHIT Marketplace. If any
+hardware or software must be repaired or replaced, AZ Cash Solutions may charge you to repair
+or replace such hardware or software, and you shall pay such cost prior to AZ Cash Solutions
+repairing or replacing such hardware or software. All hardware and software provided to you
+must be returned to AZ Cash Solutions immediately upon request by AZ Cash Solutions.
